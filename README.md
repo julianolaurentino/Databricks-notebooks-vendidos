@@ -33,3 +33,7 @@ Recomendo fortemente essa ferramenta para obter dados de qualquer lugar da web. 
 
 ### **Descrição das Colunas:**  
 Consulte a seção de colunas dos dados para mais detalhes.
+
+### **Projeto Completo no Databricks**
+
+[Databricks - Notebooks Vendidos](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2327621604893589/4240414870363583/4485174859606838/latest.html)
