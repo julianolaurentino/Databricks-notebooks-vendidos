@@ -47,3 +47,15 @@ CASE
 ELSE ram_type
 END
 ORDER BY 2 DESC
+
+--média das avaliações. Marcas que estão abaixo da médio em avaliações
+WITH aboverating AS (
+  SELECT 
+    brand
+    ,AVG(ratings) AS avgrating
+  FROM vw_notebooks_vendidos
+  GROUP BY brand
+)
+SELECT *
+FROM aboverating
+WHERE avgrating > (SELECT AVG(ratings) FROM vw_notebooks_vendidos)
