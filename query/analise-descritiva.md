@@ -5,6 +5,7 @@
 ### Perguntas:
 * Média de preço das marcas
 * Participação das memórias (DDR3, DDR4, DD5)
+* Quais as marcas possuem as menores médias de avaliação
 
 ### Resolução:
 
@@ -30,5 +31,11 @@
 `Média de preço das memórias`
 
 ![6](https://github.com/user-attachments/assets/8366cbd5-d300-4110-a66c-d8dab9301c26)
+![7](https://github.com/user-attachments/assets/7c0e86c2-aeeb-4b0c-bdfb-1a38c25f1498)
 
+
+`Marcas com as menores médias de avaliação`
+
+![8](https://github.com/user-attachments/assets/52c3548e-c324-434e-bfee-0a74da501b63)
+![9](https://github.com/user-attachments/assets/5b56760a-2d07-4a76-a751-f0251fa82fe2)
 
